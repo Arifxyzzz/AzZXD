@@ -676,7 +676,7 @@ ${symbol2} ${prefix}delete (msg)`
                     {buttonId: `owner`, buttonText: {displayText: 'Owner'}, type: 1}
                 ]
                 let buttonMessage = {
-                    image: { url: 'https://telegra.ph/file/356e99c492bab74e883e5.jpg' },
+                    image: { url: 'https://telegra.ph/file/6435613abcbd79c55114d.jpg' },
                     caption: `${menu}`,
                     footer: `${global.wm}`,
                     buttons: buttons,
