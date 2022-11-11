@@ -710,7 +710,7 @@ https://danzzapi.xyz (danzz)`
                     {buttonId: `owner`, buttonText: {displayText: 'Owner'}, type: 1}
                 ]
                 let buttonMessage = {
-                    image: { url: 'https://telegra.ph/file/356e99c492bab74e883e5.jpg' },
+                    image: { url: 'https://telegra.ph/file/6435613abcbd79c55114d.jpg' },
                     caption: `${tqto}`,
                     footer: `${global.wm}`,
                     buttons: buttons,
@@ -781,7 +781,7 @@ Ini`
                     {buttonId: `tqto`, buttonText: {displayText: 'Thanks To'}, type: 1}
                 ]
                 let buttonMessage = {
-                    image: { url: 'https://telegra.ph/file/356e99c492bab74e883e5.jpg' },
+                    image: { url: 'https://telegra.ph/file/6435613abcbd79c55114d.jpg' },
                     caption: `${rules}`,
                     footer: `${global.wm}`,
                     buttons: buttons,
