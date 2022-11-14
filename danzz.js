@@ -676,7 +676,7 @@ ${symbol2} ${prefix}delete (msg)`
                     {buttonId: `owner`, buttonText: {displayText: 'Owner'}, type: 1}
                 ]
                 let buttonMessage = {
-                    image: { url: 'https://telegra.ph/file/6435613abcbd79c55114d.jpg' },
+                    gambar : { url : 'https://telegra.ph/file/d22ce236b6d3b882a8fdf.jpg,
                     caption: `${menu}`,
                     footer: `${global.wm}`,
                     buttons: buttons,
@@ -710,7 +710,7 @@ https://danzzapi.xyz (danzz)`
                     {buttonId: `owner`, buttonText: {displayText: 'Owner'}, type: 1}
                 ]
                 let buttonMessage = {
-                    image: { url: 'https://telegra.ph/file/6435613abcbd79c55114d.jpg' },
+                    gambar : { url : 'https://telegra.ph/file/d22ce236b6d3b882a8fdf.jpg,
                     caption: `${tqto}`,
                     footer: `${global.wm}`,
                     buttons: buttons,
@@ -781,7 +781,7 @@ Ini`
                     {buttonId: `tqto`, buttonText: {displayText: 'Thanks To'}, type: 1}
                 ]
                 let buttonMessage = {
-                    image: { url: 'https://telegra.ph/file/6435613abcbd79c55114d.jpg' },
+                    gambar: { url: 'https://telegra.ph/file/d22ce236b6d3b882a8fdf.jpg' },
                     caption: `${rules}`,
                     footer: `${global.wm}`,
                     buttons: buttons,
